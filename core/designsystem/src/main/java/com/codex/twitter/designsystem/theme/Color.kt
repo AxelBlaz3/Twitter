@@ -1,4 +1,4 @@
-package com.codex.twitter.ui.theme
+package com.codex.twitter.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 

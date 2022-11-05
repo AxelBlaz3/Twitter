@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Twitter"
 include(":app")
+include(":core:designsystem")
